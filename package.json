@@ -1,0 +1,14 @@
+{
+  "name": "automate-bot",
+  "version": "1.0.0",
+  "description": "Automated Ticket Reservations - Event Pop",
+  "main": "botEventpop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SirGuys",
+  "license": "ISC",
+  "dependencies": {
+    "ontime": "0.0.3"
+  }
+}
